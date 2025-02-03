@@ -80,8 +80,22 @@ Delete a Task:
 
 Click the Delete button next to the task you want to remove from the list.
 <h2>Screenshots</h2>
-Here are a few screenshots of the app:
+Here are a few screenshots of the TodoList app, showcasing its key features and how it works:
 
+### 1. Home Page
+This is the **Home Page** of the app, where users can see all their tasks. You can add new tasks, view the existing ones, and manage your to-do list effectively.
+
+![App Screenshot](screenshots/home_page.png)
+
+### 2. After Adding a Task
+This screenshot shows the app after a task has been added. The task appears in the list, and you can edit or delete it as needed.
+
+![App Screenshot 2](screenshots/after_adding.png)
+
+### 3. Update a Task
+This view demonstrates the ability to **update a task**. Users can modify the task description or mark it as completed.
+
+![App Screenshot 3](screenshots/update_task.png)
 
 <h2>Live Demo</h2>
 You can see the live demo of the application here: Live Demo Link.
