@@ -1,4 +1,4 @@
-<b>TodoList App</b>
+<h1><b>TodoList App</b></h1>
 
 A simple and efficient To-Do List application built using React. The app allows users to add, edit, and delete tasks. It provides a clean and minimalistic interface for managing day-to-day tasks efficiently.
 
@@ -11,8 +11,8 @@ How to Use
 Screenshots
 Live Demo
 Contributing
-License
-Overview
+
+<h2>Overview</h2>
 This To-Do List application helps users keep track of their tasks and manage them efficiently. Built using React for the frontend, this app provides real-time task management with a user-friendly interface.
 
 It supports:
@@ -21,17 +21,20 @@ Adding new tasks
 Editing existing tasks
 Deleting tasks
 Marking tasks as completed
-Features
+
+<h2>Features</h2>
 Task Management: Users can add, edit, or delete tasks easily.
 Task Completion: Tasks can be marked as completed to keep track of progress.
 Responsive Design: The app is fully responsive and works across devices.
 Clean UI: Minimalistic and user-friendly design for ease of use.
-Technologies Used
+
+<h2>Technologies Used</h2>
 React: A JavaScript library for building user interfaces.
 HTML5 & CSS3: Markup and styling for a responsive design.
 JavaScript (ES6+): For the app's dynamic functionality.
 Local Storage (Optional): Save tasks persistently across sessions (if implemented).
-Installation
+
+<h2>Installation</h2>
 To get a local copy of the project up and running on your machine, follow these simple steps:
 
 Clone the repository:
@@ -60,7 +63,7 @@ Edit
 npm start
 This will start the application on http://localhost:3000/ in your browser.
 
-How to Use
+<h2>How to Use</h2>
 Once the app is running, you can:
 
 Add a Task:
@@ -76,14 +79,14 @@ Click the checkbox next to a task to mark it as complete.
 Delete a Task:
 
 Click the Delete button next to the task you want to remove from the list.
-Screenshots
+<h2>Screenshots</h2>
 Here are a few screenshots of the app:
 
 
-Live Demo
+<h2>Live Demo</h2>
 You can see the live demo of the application here: Live Demo Link.
 
-Contributing
+<h2>Contributing</h2>
 Contributions are what make the open-source community such a great place to learn, inspire, and create. You can contribute by:
 
 Reporting Bugs: If you encounter any bugs, feel free to open an issue on the GitHub Issues page.
